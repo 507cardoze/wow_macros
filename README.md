@@ -12,14 +12,14 @@ Welcome to the World of Warcraft Macros Repository! This collection of macros is
 - **Organization:** Macros are categorized for easy navigation.
 - **Community Contributions:** Open to contributions from the WoW community.
 
-📦 wow_macros
- ┣ 📂 Retail
- ┃ ┣ 📂 General
- ┃ ┣ 📂 Rogue
- ┃ ┃ ┣ 📂 Subtlety
- ┃ ┃ ┗ 📂 Outlaw
- ┣ 📜 README.md
- ┗ 📜 LICENSE
+📦 wow_macros\
+ ┣ 📂 Retail\
+ ┃ ┣ 📂 General\
+ ┃ ┣ 📂 Rogue\
+ ┃ ┃ ┣ 📂 Subtlety\
+ ┃ ┃ ┗ 📂 Outlaw\
+ ┣ 📜 README.md\
+ ┗ 📜 LICENSE\
 
 
 
