@@ -15,6 +15,7 @@ Welcome to the World of Warcraft Macros Repository! This collection of macros is
 📦 wow_macros\
  ┣ 📂 Retail\
  ┃ ┣ 📂 General\
+ ┃ ┣ 📂 Death Knight\
  ┃ ┣ 📂 Hunter\
  ┃ ┃ ┣ 📂 Beast Master\
  ┃ ┃ ┗ 📂 Marksmanship\
