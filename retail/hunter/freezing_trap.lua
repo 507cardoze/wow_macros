@@ -1,0 +1,1 @@
+/cast [@cursor] Freezing Trap

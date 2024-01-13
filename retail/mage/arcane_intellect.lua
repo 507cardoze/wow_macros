@@ -1,0 +1,1 @@
+/cast [@player] Arcane Intellect

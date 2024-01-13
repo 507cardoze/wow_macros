@@ -15,9 +15,18 @@ Welcome to the World of Warcraft Macros Repository! This collection of macros is
 📦 wow_macros\
  ┣ 📂 Retail\
  ┃ ┣ 📂 General\
+ ┃ ┣ 📂 Hunter\
+ ┃ ┃ ┣ 📂 Beast Master\
+ ┃ ┃ ┗ 📂 Marksmanship\
+ ┃ ┣ 📂 Mage\
+ ┃ ┃ ┣ 📂 Fire\
+ ┃ ┃ ┗ 📂 Frost\
+ ┃ ┣ 📂 Priest\
+ ┃ ┃ ┣ 📂 Shadow\
  ┃ ┣ 📂 Rogue\
  ┃ ┃ ┣ 📂 Subtlety\
  ┃ ┃ ┗ 📂 Outlaw\
+ ┃ ┣ 📂 Warrior\
  ┣ 📜 README.md\
  ┗ 📜 LICENSE
 
