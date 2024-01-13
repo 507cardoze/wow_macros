@@ -4,10 +4,6 @@ Welcome to the World of Warcraft Macros Repository! This collection of macros is
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -15,6 +11,16 @@ Welcome to the World of Warcraft Macros Repository! This collection of macros is
 - **Efficiency:** Execute complex actions with a single keystroke.
 - **Organization:** Macros are categorized for easy navigation.
 - **Community Contributions:** Open to contributions from the WoW community.
+
+📦 wow_macros
+ ┣ 📂 Retail
+ ┃ ┣ 📂 General
+ ┃ ┣ 📂 Rogue
+ ┃ ┃ ┣ 📂 Subtlety
+ ┃ ┃ ┗ 📂 Outlaw
+ ┣ 📜 README.md
+ ┗ 📜 LICENSE
+
 
 
 Happy adventuring in Azeroth!
