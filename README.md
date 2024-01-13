@@ -19,7 +19,7 @@ Welcome to the World of Warcraft Macros Repository! This collection of macros is
  ┃ ┃ ┣ 📂 Subtlety\
  ┃ ┃ ┗ 📂 Outlaw\
  ┣ 📜 README.md\
- ┗ 📜 LICENSE\
+ ┗ 📜 LICENSE
 
 
 
