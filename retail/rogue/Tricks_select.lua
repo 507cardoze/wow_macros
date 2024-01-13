@@ -1,0 +1,2 @@
+/run ToT = UnitName("target")
+/run if not InCombatLockdown() then EditMacro('TotT', nil, nil, '#showtooltip\n/cast [target='.. ToT ..'] Tricks of the Trade', nil); print('Tricks of the Trade set to : ' .. ToT); else print('Cannot change TotT now!'); end;
