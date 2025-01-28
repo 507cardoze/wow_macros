@@ -1,0 +1,1 @@
+/castsequence reset=10 Skyfury, Water Shield, Earthliving Weapon, Tidecaller's Guard

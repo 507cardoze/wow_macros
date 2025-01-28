@@ -27,6 +27,9 @@ Welcome to the World of Warcraft Macros Repository! This collection of macros is
  ┃ ┣ 📂 Rogue\
  ┃ ┃ ┣ 📂 Subtlety\
  ┃ ┃ ┗ 📂 Outlaw\
+ ┃ ┣ 📂 Shaman\
+ ┃ ┃ ┣ 📂 Elemental\
+ ┃ ┃ ┗ 📂 Restoration\
  ┃ ┣ 📂 Warrior\
  ┣ 📜 README.md\
  ┗ 📜 LICENSE

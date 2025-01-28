@@ -1,0 +1,2 @@
+#showtooltip
+/use [known:purge,@mouseover,harm,nodead]Purge;[known:greater purge,@mouseover,harm,nodead]greater purge;[@mouseover,help,nodead]Cleanse Spirit;[known:purge,harm]Purge;[known:greater purge,harm]greater purge;[]Cleanse Spirit

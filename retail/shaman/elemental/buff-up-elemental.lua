@@ -1,0 +1,1 @@
+/castsequence reset=10 Skyfury, Lightning Shield, Flametongue Weapon
